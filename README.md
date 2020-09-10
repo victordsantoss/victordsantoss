@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! I'm Victor 👋🏿
 
-<!--
-**victordsantoss/victordsantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm Software Engineering student at University of Brasília. 
+- 🌱 I'm currently learning Data science, Web and Mobile Development.
+- :computer: I speak C, C++, Java, Ruby, Fortran, Python and Java Script. 
+- :books: I'm currently learning Node and React Js.
+- 😄 Everything you add positively is welcome!
+- :running:: I am also into soccer, cycling, run and academy. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me at:
+- :warning: [**Linkedin**](https://www.linkedin.com/in/victorsamuelengenharia/)
+
