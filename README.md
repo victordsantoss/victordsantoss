@@ -9,5 +9,5 @@
 
 
 ### Reach me at:
-- :warning: [**Linkedin**](https://www.linkedin.com/in/victorsamuelengenharia/)
+- :warning: [**LinkedIn**](https://www.linkedin.com/in/victorsamuelengenharia/)
 
