@@ -2,8 +2,8 @@
 
 - 🔭 I'm Software Engineering student at University of Brasília. 
 - 🌱 I'm currently learning Data science, Web and Mobile Development.
-- :computer: I speak C, C++, Java, Ruby, Fortran, Python and Java Script. 
-- :books: I'm currently learning Node and React Native.
+- :computer: I speak C, C++, Java, Ruby, Fortran, Python, NodeJs and ReactNative. 
+- :books: I'm currently learning PHP and Laravel. 
 - 😄 Everything you add positively is welcome!
 - :running:: I am also into soccer, cycling, run and academy. 
 
