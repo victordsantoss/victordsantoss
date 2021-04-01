@@ -10,5 +10,3 @@
 
 ### Reach me at:
 - :warning: [**LinkedIn**](https://www.linkedin.com/in/victorsamuelengenharia/)
-- :warning: **Email** victor.samuelsantoss@gmail.com
-
