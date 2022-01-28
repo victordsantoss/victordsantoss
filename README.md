@@ -1,12 +1,39 @@
-### Hi! I'm Victor 👋🏿
+### Olá, eu sou o Victor 👋🏿
 
-- 🔭 I'm Software Engineering student at University of Brasília.
--  :computer: I am a Development intern at Defensoria Pública da União - DPU.
-- 🌱 I'm currently learning Data science, Web and Mobile Development.
-- :computer: I speak C, C++, Python, NodeJs, React and ReactNative. 
-- :books: I am currently learning and deepening in PHP, Laravel and CMS like Wordpress and Joomla.
-- 😄 Everything you add positively is welcome!
-- :running:: I am also into soccer, cycling, run and academy. 
+</br>
+<div style="text-align: justify">
+Olá! Meu nome é Victor Samuel, tenho 22 anos e sou brasiliense. Durante minha adolescência, sempre fui apaixonado por entender o funcionamento das coisas, sendo mais específico, sobre a área de tecnologia da informação. Com isso, adquiri gosto pelo estudo de desenvolvimento de aplicações e aos 18 anos comecei minha graduação de Engenharia de Software pela Universidade de Brasília - UnB, a qual estou até o momento. Durante esse breve, mas grandioso período de aprendizado, busquei aperfeiçoar meus conhecimentos na área de Gestão de Desenvolvimento de Software e na programação, fortificando minhas habilidades no desenvolvimento de aplicações Web com base em JavaScript, seus Frameworks e Bibliotecas, além de um entusiasta e amante do gigantesco mundo de Ciência de Dados. Atualmente trabalho como Desenvolvedor full stack na empresa Atena Solutions e como Estagiário na Defensoria Pública da União - DPU. Sobre minhas experiências profissionais, destaco minha atuação na plataforma <a href="https://www.groovooapp.com/" target="_blank">GroovooApp</a>, um ambiente de compra de ingressos para eventos sediados em estados norte-americanos, a qual me dedico até o momento atual.
+Por fim, estou aberto a novas conexões e experiências profissionais, e para isso, contate-me em meu e-mail ou mande uma mensagem.
+</div>
+</br>
 
-### Reach me at:
-- :warning: [**LinkedIn**](https://www.linkedin.com/in/victorsamuelengenharia/)
+### Onde me encontrar 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorsamuelengenharia/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victordsantoss)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.samuelsantoss@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victordsantoss/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561985018286&text=Ol%C3%A1%2C%20Victor.%20Te%20encontrei%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA.%20)
+
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victordsantoss&show_icons=true&theme=radical)
+
+### Tecnologias do meu dia a dia
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordsantoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Vida profissional atualmente
+
+- :books: Estudante de Engenharia de Software - UnB.
+- 🔭 Desenvolvedor Full Stack na Atena Solutions 
+- :computer: Desenvolvedor Front End na Defensoria Pública da União - DPU.
