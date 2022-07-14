@@ -2,7 +2,7 @@
 
 </br>
 <div style="text-align: justify">
-Olá! Meu nome é Victor Samuel, tenho 22 anos e sou brasiliense. Durante minha adolescência, sempre fui apaixonado por entender o funcionamento das coisas, sendo mais específico, sobre a área de tecnologia da informação. Com isso, adquiri gosto pelo estudo de desenvolvimento de aplicações e aos 18 anos comecei minha graduação de Engenharia de Software pela Universidade de Brasília - UnB, a qual estou até o momento. Durante esse breve, mas grandioso período de aprendizado, busquei aperfeiçoar meus conhecimentos na área de Gestão de Desenvolvimento de Software e na programação, fortificando minhas habilidades no desenvolvimento de aplicações Web com base em JavaScript, seus Frameworks e Bibliotecas, além de um entusiasta e amante do gigantesco mundo de Ciência de Dados. Atualmente trabalho como Desenvolvedor full stack na empresa Atena Solutions e como Estagiário na Defensoria Pública da União - DPU. Sobre minhas experiências profissionais, destaco minha atuação na plataforma <a href="https://www.groovooapp.com/" target="_blank">GroovooApp</a>, um ambiente de compra de ingressos para eventos sediados em estados norte-americanos, a qual me dedico até o momento atual.
+Olá! Meu nome é Victor Samuel, tenho 22 anos e sou estudante de Engenharia de Software pela Universidade de Brasília. Atualmente tenho 2 anos de experiência de desenvolvimento web e mobile trabalhando de maneira full stack com foco nas tecnologias SQL - Mysql, NoSQL - MongoDb, NodeJs, TypeScript, ReactJs, ReactNative, Bootstrap, CSS e StyledComponents, além de ser um entusiasta em metodologias ágeis.
 Por fim, estou aberto a novas conexões e experiências profissionais, e para isso, contate-me em meu e-mail ou mande uma mensagem.
 </div>
 </br>
