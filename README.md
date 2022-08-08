@@ -47,7 +47,7 @@ Olá! Meu nome é Victor Samuel, tenho 22 anos e sou estudante de Engenharia de 
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/victordsantoss/victordsantoss/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ### Experiência
