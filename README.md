@@ -55,5 +55,5 @@ Olá! Meu nome é Victor Samuel, tenho 23 anos e sou estudante de Engenharia de 
 ### Experiência
 
 - :books: Estudante de Engenharia de Software - UnB.
-- 🔭 Desenvolvedor Full Stack na Atena Solutions 09/2021 - Atualmente
+- 🔭 Desenvolvedor Full Stack na Atena Solutions. 09/2021 - Atualmente
 - :computer: Desenvolvedor Front End na Defensoria Pública da União - DPU. 12/2020 - 12/2022
