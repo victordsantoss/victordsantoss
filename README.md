@@ -7,7 +7,7 @@
 
 </br>
 <div style="text-align: justify">
-Olá! Meu nome é Victor Samuel, tenho 22 anos e sou estudante de Engenharia de Software pela Universidade de Brasília. Atualmente tenho 3 anos de experiência de desenvolvimento web e mobile trabalhando de maneira full stack com foco nas tecnologias SQL - Mysql, NodeJs, TypeScript, ReactJs, ReactNative, Bootstrap, CSS e StyledComponents, além de ser um entusiasta em metodologias ágeis.
+Olá! Meu nome é Victor Samuel, tenho 23 anos e sou estudante de Engenharia de Software pela Universidade de Brasília. Atualmente tenho 3 anos de experiência de desenvolvimento web e mobile trabalhando de maneira full stack com foco nas tecnologias SQL - Mysql, NodeJs, TypeScript, ReactJs, ReactNative, Bootstrap, CSS e StyledComponents, além de ser um entusiasta em metodologias ágeis.
   
 <p> WebSite: https://www.victordsantoss.com.br/ <p/>
 </div>
@@ -55,5 +55,5 @@ Olá! Meu nome é Victor Samuel, tenho 22 anos e sou estudante de Engenharia de 
 ### Experiência
 
 - :books: Estudante de Engenharia de Software - UnB.
-- 🔭 Desenvolvedor Full Stack na Atena Solutions 
-- :computer: Desenvolvedor Front End na Defensoria Pública da União - DPU.
+- 🔭 Desenvolvedor Full Stack na Atena Solutions 09/2021 - Atualmente
+- :computer: Desenvolvedor Front End na Defensoria Pública da União - DPU. 12/2020 - 12/2022
