@@ -18,9 +18,8 @@ Como líder de equipe, liderei a implementação de um sistema inovador nos EUA,
 Encerrando meu percurso no campo de eventos, destaco minha experiência na criação de um ambiente para eventos focados em Metaverso. Nesse contexto, ofereci às empresas a capacidade de construir ambientes virtuais personalizados para treinamento, capacitação, distribuição de conteúdo e interação com clientes.
 
 Essas experiências não são apenas sobre linhas de código; elas refletem meu papel ativo na tomada de decisões estratégicas, no desenvolvimento de processos e na criação de produtos impactantes.
-  
-<p> WebSite: https://www.victordsantoss.com.br/ <p/>
-</div>
+
+  </div>
 </br>
 
 <div  align="center">
