@@ -62,8 +62,11 @@ Essas experiências não são apenas sobre linhas de código; elas refletem meu 
   ![Snake animation](https://github.com/victordsantoss/victordsantoss/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-### Experiência
+### Escolaridade 
+- :books: Engenheiro de Software formado pela Universidade de Brasília - UnB (2018-2023).
 
-- :books: Estudante de Engenharia de Software - UnB.
-- 🔭 Desenvolvedor Full Stack na Atena Solutions. 09/2021 - Atualmente
+### Experiência
+- :computer: Engenheiro de Software Pleno na Inova3D. 07/2023 - Atualmente
+- :computer: Engenheiro de Software Pleno na Atena Solutions. 09/2022 - Atualmente
+- :computer: Desenvolvedor Full Stack na Atena Solutions. 09/2021 - 09/2022
 - :computer: Desenvolvedor Front End na Defensoria Pública da União - DPU. 12/2020 - 12/2022
