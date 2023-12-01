@@ -7,7 +7,17 @@
 
 </br>
 <div style="text-align: justify">
-Olá! Meu nome é Victor Samuel, tenho 23 anos e sou estudante de Engenharia de Software pela Universidade de Brasília. Atualmente tenho 3 anos de experiência de desenvolvimento web e mobile trabalhando de maneira full stack com foco nas tecnologias SQL - Mysql, NodeJs, TypeScript, ReactJs, ReactNative, Bootstrap, CSS e StyledComponents, além de ser um entusiasta em metodologias ágeis.
+Engenheiro de Software pela Universidade de Brasília - UnB, com mais de 4 anos de experiência em desenvolvimento Web e Mobile, e entusiasta em metodologias ágeis e UX.
+
+Minha jornada profissional tem sido marcada por experiências significativas que refletem meu comprometimento com inovação e excelência. Destaco alguns momentos representativos:
+
+Na criação do Portal de Candidatura da Defensoria Pública da União ao Órgão Nacional de Direitos Humanos, desempenhei um papel crucial, contribuindo para uma iniciativa de grande importância social.
+
+Como líder de equipe, liderei a implementação de um sistema inovador nos EUA, utilizando NFC e NFT, para validação de tickets e redução de fraudes em uma ticketeira. Estendi minha contribuição para o desenvolvimento de um sistema que permite a validação offline, ampliando a eficiência para usuários sem acesso à internet.
+
+Encerrando meu percurso no campo de eventos, destaco minha experiência na criação de um ambiente para eventos focados em Metaverso. Nesse contexto, ofereci às empresas a capacidade de construir ambientes virtuais personalizados para treinamento, capacitação, distribuição de conteúdo e interação com clientes.
+
+Essas experiências não são apenas sobre linhas de código; elas refletem meu papel ativo na tomada de decisões estratégicas, no desenvolvimento de processos e na criação de produtos impactantes.
   
 <p> WebSite: https://www.victordsantoss.com.br/ <p/>
 </div>
