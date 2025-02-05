@@ -57,7 +57,9 @@ Domino principalmente as tecnologias do ecossistema full stack de JavaScript, co
 - :books: Engenheiro de Software formado pela Universidade de Brasília - UnB (2018-2023).
 
 ### Experiência
-- :computer: Engenheiro de Software Pleno na Inova3D. 07/2023 - Atualmente
-- :computer: Engenheiro de Software Pleno na Atena Solutions. 09/2022 - Atualmente
-- :computer: Desenvolvedor Full Stack na Atena Solutions. 09/2021 - 09/2022
+- :computer: Desenvolvedor Full Stack Pleno na G4F. 02/2024 - Atualmente
+- :computer: Desenvolvedor Full Stack Pleno na Bluecyber Seguros. 07/2023 - 01/2024
+- :computer: Desenvolvedor Front End Pleno na Inova3D. 07/2023 - 01/2024
+- :computer: Desenvolvedor Full Stack Pleno na Atena Solutions. 09/2022 - 01/2024
+- :computer: Desenvolvedor Full Stack Júnior na Atena Solutions. 09/2021 - 09/2022
 - :computer: Desenvolvedor Front End na Defensoria Pública da União - DPU. 12/2020 - 12/2022
