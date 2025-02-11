@@ -58,7 +58,7 @@ Domino principalmente as tecnologias do ecossistema full stack de JavaScript, co
 
 ### Experiência
 - :computer: Desenvolvedor Full Stack Pleno na G4F. 02/2024 - Atualmente
-- :computer: Desenvolvedor Full Stack Pleno na Bluecyber Seguros. 07/2023 - 01/2024
+- :computer: Desenvolvedor Full Stack Pleno na Bluecyber Seguros. 01/2024 - 01/2025
 - :computer: Desenvolvedor Front End Pleno na Inova3D. 07/2023 - 01/2024
 - :computer: Desenvolvedor Full Stack Pleno na Atena Solutions. 09/2022 - 01/2024
 - :computer: Desenvolvedor Full Stack Júnior na Atena Solutions. 09/2021 - 09/2022
